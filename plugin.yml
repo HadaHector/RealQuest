@@ -1,0 +1,8 @@
+name: RealQuest
+main: com.github.HadaHector.RealQuest.RealQuest
+version: 0.01
+
+commands:
+   addQI:
+      description: Gives you some questitem.
+      usage: /addQI questitem-name
