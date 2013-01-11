@@ -3,6 +3,9 @@ main: com.github.HadaHector.RealQuest.RealQuest
 version: 0.01
 
 commands:
-   addQI:
-      description: Gives you some questitem.
-      usage: /addQI questitem-name
+  addQI:
+    description: Gives you some questitem.
+    usage: /addQI questitem-name
+  npc:
+    description: NPC
+    usage: /npc
